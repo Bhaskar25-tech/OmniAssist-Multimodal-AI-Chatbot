@@ -1,0 +1,38 @@
+
+# LLM providers and local AI
+anthropic
+ollama
+python-dotenv
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend
+streamlit
+
+# Image processing and OCR
+opencv-python-headless
+numpy
+pytesseract
+easyocr
+pillow
+
+# PDF and document processing
+pypdf
+pymupdf
+python-docx
+
+# Web scraping and HTTP
+requests
+beautifulsoup4
+
+# Machine learning and data processing
+scikit-learn
+joblib
+pandas
+
+# Testing
+pytest
+httpx

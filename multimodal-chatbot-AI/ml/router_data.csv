@@ -1,0 +1,81 @@
+text,label
+"hi, how are you",chat
+what is machine learning,chat
+explain overfitting simply,chat
+who invented python,chat
+tell me a short story about a robot,chat
+difference between AI and ML,chat
+what is the capital of india,chat
+give me tips to prepare for an interview,chat
+explain how neural networks learn,chat
+what are the benefits of exercise,chat
+how does the internet work,chat
+suggest a name for my project,chat
+what is data science,chat
+why is the sky blue,chat
+can you help me with my career,chat
+explain supervised vs unsupervised learning,chat
+what is the meaning of life,chat
+tell me a joke,chat
+how do i stay focused while studying,chat
+what is generative ai,chat
+write a python function to reverse a string,code
+fix this bug in my code,code
+write sql query to find duplicate rows,code
+create a flask api with one endpoint,code
+convert this java code to python,code
+write a function for binary search,code
+write code to read a csv file with pandas,code
+how to sort a dictionary by value in python,code
+create a class for a bank account,code
+write a regex to validate email,code
+write a python script to scrape a website,code
+debug this error: list index out of range,code
+implement bubble sort,code
+write a program to find factorial,code
+generate code for a login form in html,code
+write a for loop to print 1 to 10,code
+create a function to check palindrome,code
+write a sql join between two tables,code
+code a simple calculator in python,code
+write unit tests for this function,code
+summarize this article,summarize
+give me a short summary of the text,summarize
+tldr this paragraph,summarize
+shorten this document,summarize
+summarize the pdf in 5 points,summarize
+make a summary of this page,summarize
+can you condense this passage,summarize
+give me the key points of this text,summarize
+summarize the following in 3 lines,summarize
+brief overview of this report please,summarize
+write a summary of this email,summarize
+extract the main ideas from this essay,summarize
+summarize this url,summarize
+short version of this story please,summarize
+sum up this meeting transcript,summarize
+give me a quick recap of this chapter,summarize
+summarise the text below,summarize
+make this long text shorter,summarize
+what are the highlights of this document,summarize
+create bullet point summary,summarize
+translate hello how are you to hindi,translate
+how do you say thank you in french,translate
+convert this text to telugu,translate
+translate good morning into spanish,translate
+what is welcome in tamil,translate
+translate this sentence to english,translate
+say i love you in japanese,translate
+translate the following paragraph to german,translate
+convert this english text into hindi,translate
+translate this to kannada,translate
+how would you say where is the station in italian,translate
+translate into arabic please,translate
+change this sentence from french to english,translate
+translate my message to korean,translate
+what is thank you in russian,translate
+translate to marathi,translate
+convert this into bengali,translate
+hindi translation of good night,translate
+translate this to chinese,translate
+give me the english meaning of this sentence,translate

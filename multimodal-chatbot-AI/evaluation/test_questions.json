@@ -1,0 +1,12 @@
+[
+  {"question": "What is the capital of France?", "keywords": ["paris"]},
+  {"question": "What does CPU stand for?", "keywords": ["central processing unit"]},
+  {"question": "Who wrote the play Romeo and Juliet?", "keywords": ["shakespeare"]},
+  {"question": "What is 15 multiplied by 12?", "keywords": ["180"]},
+  {"question": "Which planet is known as the Red Planet?", "keywords": ["mars"]},
+  {"question": "What does SQL stand for?", "keywords": ["structured query language"]},
+  {"question": "Name the Python library used for data frames.", "keywords": ["pandas"]},
+  {"question": "What is the chemical symbol for gold?", "keywords": ["au"]},
+  {"question": "Which algorithm is used for classification and uses a sigmoid function?", "keywords": ["logistic regression"]},
+  {"question": "What does OCR stand for?", "keywords": ["optical character recognition"]}
+]
